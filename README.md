@@ -7,10 +7,10 @@ CLearn is a native Android application built using **Kotlin** and **Jetpack Comp
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/learn.png" width="22%" alt="Learn Module" />
-  <img src="screenshots/playground.png" width="22%" alt="C Code Playground" />
-  <img src="screenshots/quizzes.png" width="22%" alt="Quizzes & Tests" />
-  <img src="screenshots/progress.png" width="22%" alt="Progress Tracking" />
+  <img src="./screenshots/learn.png" width="22%" alt="Learn Module" />
+  <img src="./screenshots/playground.png" width="22%" alt="C Code Playground" />
+  <img src="./screenshots/quize.png" width="22%" alt="Quizzes & Tests" />
+  <img src="./screenshots/progress.png" width="22%" alt="Progress Tracking" />
 </p>
 
 ---
