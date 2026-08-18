@@ -73,5 +73,14 @@ com.clearn.app
 
 ---
 
+## 👩‍💻 Connect with Me
+
+- 🔗 **LinkedIn:** [Komal Achut Rathod](https://www.linkedin.com/in/komal-achut-rathod)
+- 🐙 **GitHub:** [@itsKomal1508](https://github.com/itsKomal1508)
+- 💻 **LeetCode:** [@Komal_rathod15](https://leetcode.com/u/Komal_rathod15/)
+
+---
+
 ## 📄 License
 This project is open-source under the [MIT License](LICENSE).
+
